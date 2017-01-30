@@ -1,0 +1,14 @@
+[
+  {"name":"Январь", "src":"img/january.jpeg", "srcmin":"img/januarymin.jpg"},
+  {"name":"Февраль", "src":"img/february.jpeg", "srcmin":"img/februarymin.jpg"},
+  {"name":"Март", "src":"img/march.jpeg", "srcmin":"img/marchmin.jpg"},
+  {"name":"Апрель", "src":"img/april.jpeg", "srcmin":"img/aprilmin.jpg"},
+  {"name":"Май", "src":"img/may.jpeg", "srcmin":"img/maymin.jpg"},
+  {"name":"Июнь", "src":"img/june.jpeg", "srcmin":"img/junemin.jpg"},
+  {"name":"Июль", "src":"img/jule.jpeg", "srcmin":"img/julemin.jpg"},
+  {"name":"Август", "src":"img/august.jpeg", "srcmin":"img/augustmin.jpg"},
+  {"name":"Сентябрь", "src":"img/september.jpeg", "srcmin":"img/septembermin.jpg"},
+  {"name":"Октябрь", "src":"img/october.jpeg", "srcmin":"img/octobermin.jpg"},
+  {"name":"Ноябрь", "src":"img/november.jpeg", "srcmin":"img/novembermin.jpg"},
+  {"name":"Декабрь", "src":"img/december.jpeg", "srcmin":"img/decembermin.jpg"}
+]
